@@ -228,6 +228,10 @@ export default function Mandacaru() {
                         value: 38,
                     },
                     {
+                        name: 'Teste',
+                        value: 38,
+                    },
+                    {
                         name: 'Papel Marfim Liso',
                         value: 38,
                     },
